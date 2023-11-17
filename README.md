@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo César Assis</h1>
 <h3 align="center">A enthusiastic DevOps Engineer/Cloud/CyberSecurity from Brazil</h3>
 
-- 👷‍♂️ I’m currently working on [Locus Custom Software](https://locus.software)
+- 👷‍♂️ I’m currently working on [StoneCo.](https://www.stone.com.br/)
 
 - 🔥 Interested in **DevOps and Cloud and CyberSecurity/Cloud Security**
 
