@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo César</h1>
-<h3 align="center">A enthusiastic DevOps Engineer/Cloud/CyberSecurity from Brazil</h3>
+<h3 align="center">A enthusiastic SRE from Brazil</h3>
 
 - 👷‍♂️ I’m currently working on [StoneCo.](https://www.stone.com.br/)
 
-- 🔥 Interested in **DevOps and Cloud and CyberSecurity/Cloud Security**
+- 🔥 Interested in **SRE | DevOps| Cloud | CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodrigocesar-bashrc?tab=repositories]
 
