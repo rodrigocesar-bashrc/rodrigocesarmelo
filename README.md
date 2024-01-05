@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rodrigo César Assis</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo César</h1>
 <h3 align="center">A enthusiastic DevOps Engineer/Cloud/CyberSecurity from Brazil</h3>
 
 - 👷‍♂️ I’m currently working on [StoneCo.](https://www.stone.com.br/)
 
 - 🔥 Interested in **DevOps and Cloud and CyberSecurity/Cloud Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rodrigocesarmelo?tab=repositories](https://github.com/rodrigocesarmelo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rodrigocesarmelo?tab=repositories](https://github.com/rodrigocesar-bashrc?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@rodrigocesarmelo](https://medium.com/@rodrigocesarmelo)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigocesarmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigocesarmelo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rodrigocesar-bashrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigocesarmelo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19294206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19294206" height="30" width="40" /></a>
 <a href="https://medium.com/rodrigocesarmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rodrigocesarmelo" height="30" width="40" /></a>
 <a href="https://discord.gg/0286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0286" height="30" width="40" /></a>
