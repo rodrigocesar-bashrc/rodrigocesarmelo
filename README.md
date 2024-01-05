@@ -5,9 +5,9 @@
 
 - 🔥 Interested in **DevOps and Cloud and CyberSecurity/Cloud Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rodrigocesarmelo?tab=repositories](https://github.com/rodrigocesar-bashrc?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rodrigocesar-bashrc?tab=repositories]
 
-- 📝 I regularly write articles on [https://medium.com/@rodrigocesarmelo](https://medium.com/@rodrigocesarmelo)
+- 📝 I regularly write articles on [https://medium.com/@rodrigocesarmelo]
 
 - 🚀 My currently Stack **AWS, GCP, containers Docker & Kubernetes, IaC (Terraform), CaC (Ansible), CI/CD (Jenkins e GitHubActions), Observabilidade (Prometheus e Grafana), SCM (Git) e etc...**
 
